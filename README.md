@@ -19,6 +19,7 @@ Current build status
 [![Linux](https://img.shields.io/circleci/project/github/conda-forge/pyrsistent-feedstock/master.svg?label=Linux)](https://circleci.com/gh/conda-forge/pyrsistent-feedstock)
 [![OSX](https://img.shields.io/travis/conda-forge/pyrsistent-feedstock/master.svg?label=macOS)](https://travis-ci.org/conda-forge/pyrsistent-feedstock)
 [![Windows](https://img.shields.io/appveyor/ci/conda-forge/pyrsistent-feedstock/master.svg?label=Windows)](https://ci.appveyor.com/project/conda-forge/pyrsistent-feedstock/branch/master)
+[![linux-aarch64](https://img.shields.io/shippable/5c33fbe6d1578b070031327c/aarch64.svg?label=linux-aarch64)](https://app.shippable.com/github/Archiconda/pyrsistent-feedstock)
 
 Current release info
 ====================
